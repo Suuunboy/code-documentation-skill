@@ -2,7 +2,7 @@
   "name": "code-documentation-skill",
   "description": "Marketplace hosting the code-documentation skill for Claude Code.",
   "owner": {
-    "name": "Ivan",
+    "name": "Ivan Afanasov",
     "url": "https://github.com/Suuunboy"
   },
   "plugins": [
@@ -13,7 +13,7 @@
       "description": "Write, review, and audit code documentation to the standard the language and the project actually use — Python docstrings (PEP 257, Google, NumPy, reST), C and C++ comment blocks (Doxygen, kernel-doc), plus READMEs and API reference docs.",
       "version": "1.0.0",
       "author": {
-        "name": "Ivan",
+        "name": "Ivan Afanasov",
         "url": "https://github.com/Suuunboy"
       },
       "homepage": "https://github.com/Suuunboy/code-documentation-skill",
