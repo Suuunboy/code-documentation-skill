@@ -86,25 +86,6 @@ finding gaps, not authoritative enough to quote as a coverage percentage without
 
 No dependencies beyond the standard library.
 
-## Repository layout
-
-```
-.
-├── .claude-plugin/
-│   ├── marketplace.json          # catalogue: what this repo offers
-│   └── plugin.json               # plugin manifest
-└── skills/
-    └── code-documentation/
-        ├── SKILL.md
-        ├── references/
-        └── scripts/
-```
-
-The repository is both the marketplace and the single plugin in it — `source` is `"./"`, so the
-plugin root is the repository root. `/plugin marketplace add` looks specifically for
-`.claude-plugin/marketplace.json`; a repo carrying only `plugin.json` fails with
-"Marketplace file not found".
-
 ## License
 
 [MIT](LICENSE)
