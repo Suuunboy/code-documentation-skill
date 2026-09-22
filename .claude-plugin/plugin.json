@@ -1,0 +1,24 @@
+{
+  "name": "code-documentation",
+  "displayName": "Code Documentation",
+  "version": "1.0.0",
+  "description": "Write, review, and audit code documentation to the standard the language and the project actually use — Python docstrings (PEP 257, Google, NumPy, reST), C and C++ comment blocks (Doxygen, kernel-doc), plus READMEs and API reference docs.",
+  "author": {
+    "name": "Ivan",
+    "url": "https://github.com/Suuunboy"
+  },
+  "homepage": "https://github.com/Suuunboy/code-documentation-skill",
+  "repository": "https://github.com/Suuunboy/code-documentation-skill",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "docstrings",
+    "comments",
+    "python",
+    "c",
+    "cpp",
+    "doxygen",
+    "readme",
+    "api-reference"
+  ]
+}
